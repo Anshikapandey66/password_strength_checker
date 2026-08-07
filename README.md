@@ -13,7 +13,7 @@ A simple Python project that checks the strength of a password based on common s
 
 ## Technologies Used
 
-- Python 3
+- Python 3   
 
 ## How to Run
 
