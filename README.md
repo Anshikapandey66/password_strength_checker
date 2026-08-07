@@ -9,7 +9,7 @@ A simple Python project that checks the strength of a password based on common s
 - ✅ Lowercase letter check
 - ✅ Number check
 - ✅ Special character check
-- ✅ Strength rating (Weak, Medium, Strong)  
+- ✅ Strength rating (Weak, Medium, Strong)
 
 ## Technologies Used
 
