@@ -17,6 +17,7 @@ A simple Python project that checks the strength of a password based on common s
 
 ## How to Run
 
+
 1. Clone the repository
    
 
